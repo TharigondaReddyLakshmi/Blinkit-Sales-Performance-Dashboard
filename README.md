@@ -1,4 +1,4 @@
-# Blinkit-Sales-Performance-Dashboard
+# Blinkit-Sales-Performance-Dashboard Using PowerBi
 The Blinkit Sales Performance Dashboard is a comprehensive, interactive business intelligence solution built using Power BI. It is designed to analyze and optimize operational efficiencies, consumer preferences, and revenue streams for Blinkit, India's premier last-minute delivery platform. By transforming raw retail data into highly granular visual analytics, this dashboard empowers stakeholders to make strategic, data-driven decisions that enhance supply chain management and regional market share.
 
 The dashboard utilizes a robust matrix of high-level and operational Key Performance Indicators (KPIs) to provide a complete 360-degree view of business performance:
