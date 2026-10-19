@@ -23,3 +23,29 @@ The Blinkit Sales Performance Dashboard successfully bridges raw retail operatio
 • Establishment Stability: Following a massive growth surge between 2010 and 2015, sales volumes have stabilized at a highly sustainable baseline of $122K annually, proving long-term brand equity and operational maturity.
 • Inventory Alignment: High-volume daily essentials like Fruits, Vegetables, and Snack Foods dominate inventory management, aligning perfectly with quick-commerce consumer behavior.
 Ultimately, this dashboard proves that optimizing regional expansion into Tier 2 sectors and prioritizing Supermarket Type1 fulfillment models offers the highest return on investment for rapid, last-minute delivery frameworks.
+
+# Charts Used 
+Based on the dashboard layout, here are the official names of the charts and visual elements used to represent the data:
+
+1. Summary Metrics
+
+• KPI Cards: Used at the top left to display standalone high-level figures (Total Sales, Average Sales, No of Items, Average Rating).
+
+2. Left-Hand Filter Panel
+
+• Slicers (Drop-down Filters): Used for dynamic data filtering across Outlet Location Type, Outlet Type, Outlet Size, Item Type, and Rating.
+
+3. Main Analytics Section (Center & Right)
+
+• Donut Charts:
+	• No Of Items by Item Fat Content
+	• Total sales by Outlet Size
+• Horizontal Bar Charts:
+	• Fat by Outlet (Clustered horizontal bar chart)
+	• Item Type (Horizontal bar chart ranked by item volume)
+• Line / Area Chart:
+	• Outlet Establishment (Area trend chart tracking sales from 2010 to 2020)
+• Stacked Horizontal Bar Chart:
+	• Outlet Location (Showing Tier 1, Tier 2, and Tier 3 percentages)
+• Data Matrix / Table:
+	• Outlet Type Performance Grid (Located at the bottom right, evaluating Supermarkets and Grocery Stores across multiple metrics with color-coded conditional formatting blocks)
